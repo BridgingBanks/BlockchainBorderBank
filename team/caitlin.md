@@ -1,4 +1,4 @@
-![functionaldiagram_financialworkflow](https://github.com/BridgingBanks/GeneralSpecificationsDocumentation/blob/gh-pages/Caitlin/caitlin_photo.png)
+![caitlin.headshot](https://github.com/BridgingBanks/GeneralSpecificationsDocumentation/blob/gh-pages/Caitlin/caitlin_photo.png)
 
 
 
