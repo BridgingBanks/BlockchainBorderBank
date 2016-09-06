@@ -1,3 +1,3 @@
-<image>
+image - file
 
-<bio>
+bio - words
