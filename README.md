@@ -1,9 +1,9 @@
 # BlockchainBorderBank
 Fieldwork Project for the CorpBot Competition
 
-Project Repo
+**Project Repo**
 
 * http://blockchainborderbank.org
 
-Project Description:
+**Project Description:**
 * http://blockchainborderbank.org/project-description.html
