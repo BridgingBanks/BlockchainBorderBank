@@ -1,4 +1,7 @@
-![dazza.headshot](https://github.com/BridgingBanks/GeneralSpecificationsDocumentation/blob/gh-pages/Dazza/dazzag_headshot.jpg)
+![dazza.headshot]()
+
+<img width="300" alt="dazza-photo" src="https://github.com/BridgingBanks/GeneralSpecificationsDocumentation/blob/gh-pages/Dazza/dazzag_headshot.jpg">
+
 
 (Daniel) Dazza Greenwood is an entrepreneur, innovator and national thought on design and deployment of scalable, distributed Trust Network and other digital systems. Dazza heads the digital business systems design and architecture firm CIVICS.com, which he founded in 1996. At MIT Media Lab and MIT Connection Science, Dazza lecturers and conducts R&D on big data, digital identity federation, personal data sharing and is developing the field of computational law and jurimetrics through law.MIT.edu events and projects. Privately, Dazza provides professional consultancy services to industry, government and civic organizations, including fortune 50 companies, national governments, and marketplaces through CIVICS.com. Dazza has catalyzed or led numerous industry, governmental and public-private initiatives aimed at developing innovative legal solutions, technical standards and business models.
 
