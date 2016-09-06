@@ -1,9 +1,7 @@
+CAITLIN STILIN-ROONEY
+
 ![caitlin.headshot](https://github.com/BridgingBanks/GeneralSpecificationsDocumentation/blob/gh-pages/Caitlin/caitlin_photo.png)
 
-
-
-
-CAITLIN STILIN-ROONEY
 
 With a deep concern for the human condition, Caitlin traveled to Kenya in 2011 to assist the largest East African coffee trading company explore ways to integrate mobile payments into its practice as a means to ensure payment accountability for women coffee farmers.
 
